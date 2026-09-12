@@ -18,3 +18,5 @@ Experiência institucional cinematográfica para Dra. Maria Fernanda Vieira Brun
 Atuação em todo o Brasil. WhatsApp temporário: (11) 9999-9999.
 
 Abra o index.html em um navegador para visualizar o site localmente.
+
+> Pré-produção: branch v3-referencia-interativa.
